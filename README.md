@@ -1,2 +1,4 @@
 # Django-Personal-Blog
-Personal blog using Django
+Personal blog using django
+Leanr from FreeCoodeCamps.org - (Tomi)
+https://youtu.be/jBzwzrDvZ18
