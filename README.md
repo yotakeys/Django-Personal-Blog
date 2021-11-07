@@ -1,5 +1,5 @@
 # Django-Personal-Blog
-Personal blog using django
+Personal blog using django with database
 
 Learn from FreeCodeCamp.org - (Tomi)
 
